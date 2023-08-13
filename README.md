@@ -13,5 +13,5 @@ The dataset represents prices of over 50,000 round cut diamonds. I was able to d
 | x | length in mm | 0--10.74 |
 | y |  width in mm | 0--58.9 |
 | z |  depth in mm| 0--31.8 |
-| Depth |  total depth percentage =  z / mean(x, y) = 2 * z / (x + y) (43--79) |
-| Table |  width on top of diamond relative to the widest point (43--95) |
+| Depth |  total depth percentage =  z / mean(x, y) = 2 * z / (x + y) | (43--79)  |
+| Table |  width on top of diamond relative to the widest point | (43--95) |
