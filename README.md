@@ -1,6 +1,6 @@
 # Diamonds Data Analysis
 
-The dataset represents prices of over 50,000 round cut diamonds. I was able to download the files via [kaggle](https://www.kaggle.com/datasets/devrimtuncr/diamonds). 
+The dataset represents prices of over 50,000 round cut diamonds. 
 
 ## About
 | Variable | Description | Example |
