@@ -18,11 +18,12 @@ The dataset represents prices of over 50,000 round cut diamonds.
 
 ## Overview
 - Run summary statistics to describe the dataset. 
-- Detect any issues with the dataset and list if there are any issues and why they happened.
-- Did the variable carot, or any other variable affect the prive of diamonds?
-- Next is to visualize the categorial distributions
+- Did the variable carot have any affect the price of diamonds?
 
 ## Requirements
+matplotlib
+pandas
+scikit
 
 ## Notes
 
