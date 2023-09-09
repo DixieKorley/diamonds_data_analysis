@@ -16,6 +16,14 @@ The dataset represents prices of over 50,000 round cut diamonds.
 | Depth |  total depth percentage =  z / mean(x, y) = 2 * z / (x + y) | (43--79)  |
 | Table |  width on top of diamond relative to the widest point | (43--95) |
 
+## Overview
+- Run summary statistics to describe the dataset. 
+- Detect any issues with the dataset and list if there are any issues and why they happened.
+- Did the variable carot, or any other variable affect the prive of diamonds?
+- Next is to visualize the categorial distributions
+
+## Requirements
+
 ## Notes
 
 We are ignoring the data directory containing the set due to it's size. 
