@@ -1,6 +1,6 @@
 # Diamonds Data Analysis
 
-The dataset represents prices of over 50,000 round cut diamonds. 
+The dataset represents prices of over 50,000 round cut diamonds. I retrieved the dataset from [Kaggle](https://www.kaggle.com/code/khushipitroda/diamonds-prices-of-over-50-000-round-cut-diamonds) before it got set to private. 
 
 ## About
 | Variable | Description | Example |
@@ -27,4 +27,4 @@ scikit
 
 ## Notes
 
-We are ignoring the data directory containing the set due to it's size. 
+Dataset is in gitignore due to it's size. I will still add more to this repository to explore other parts of dataset. 
